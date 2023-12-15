@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/check_brackets_Array.dir/check_brackets_Array.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/check_brackets_Array.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/check_brackets_Array.cpp",
+  "output": "CMakeFiles/check_brackets_Array.dir/check_brackets_Array.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/check_brackets_Array.dir/DSStack.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSStack.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSStack.cpp",
+  "output": "CMakeFiles/check_brackets_Array.dir/DSStack.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/check_brackets_Array.dir/DSList.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSList.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSList.cpp",
+  "output": "CMakeFiles/check_brackets_Array.dir/DSList.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/check_brackets_List.dir/check_brackets_List.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/check_brackets_List.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/check_brackets_List.cpp",
+  "output": "CMakeFiles/check_brackets_List.dir/check_brackets_List.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/check_brackets_List.dir/DSStack.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSStack.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSStack.cpp",
+  "output": "CMakeFiles/check_brackets_List.dir/DSStack.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/check_brackets_List.dir/DSList.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSList.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSList.cpp",
+  "output": "CMakeFiles/check_brackets_List.dir/DSList.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/tests_list.dir/test_DSList.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/test_DSList.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/test_DSList.cpp",
+  "output": "CMakeFiles/tests_list.dir/test_DSList.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/tests_list.dir/DSList.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSList.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSList.cpp",
+  "output": "CMakeFiles/tests_list.dir/DSList.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/tests_stack.dir/test_DSStack.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/test_DSStack.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/test_DSStack.cpp",
+  "output": "CMakeFiles/tests_stack.dir/test_DSStack.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -o CMakeFiles/tests_stack.dir/DSStack.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSStack.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/Bracket_Checker/DSStack.cpp",
+  "output": "CMakeFiles/tests_stack.dir/DSStack.cpp.o"
+}
+]
